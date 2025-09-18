@@ -1,0 +1,15 @@
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Infrastructure\bin\Release\net8.0\OnionExample.Infrastructure.deps.json
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Infrastructure\bin\Release\net8.0\OnionExample.Infrastructure.dll
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Infrastructure\bin\Release\net8.0\OnionExample.Infrastructure.pdb
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Infrastructure\bin\Release\net8.0\OnionExample.Domain.dll
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Infrastructure\bin\Release\net8.0\OnionExample.Domain.pdb
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Infrastructure\obj\Release\net8.0\OnionExample.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Infrastructure\obj\Release\net8.0\OnionExample.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Infrastructure\obj\Release\net8.0\OnionExample.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Infrastructure\obj\Release\net8.0\OnionExample.Infrastructure.AssemblyInfo.cs
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Infrastructure\obj\Release\net8.0\OnionExample.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Infrastructure\obj\Release\net8.0\OnionExa.1D52CEB8.Up2Date
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Infrastructure\obj\Release\net8.0\OnionExample.Infrastructure.dll
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Infrastructure\obj\Release\net8.0\refint\OnionExample.Infrastructure.dll
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Infrastructure\obj\Release\net8.0\OnionExample.Infrastructure.pdb
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Infrastructure\obj\Release\net8.0\ref\OnionExample.Infrastructure.dll

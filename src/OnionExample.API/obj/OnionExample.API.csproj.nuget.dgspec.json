@@ -1,0 +1,267 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.API\\OnionExample.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.API\\OnionExample.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.API\\OnionExample.API.csproj",
+        "projectName": "OnionExample.API",
+        "projectPath": "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.API\\OnionExample.API.csproj",
+        "packagesPath": "C:\\Users\\Jheremy.Tancara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jheremy.Tancara\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Application\\OnionExample.Application.csproj": {
+                "projectPath": "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Application\\OnionExample.Application.csproj"
+              },
+              "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Domain\\OnionExample.Domain.csproj": {
+                "projectPath": "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Domain\\OnionExample.Domain.csproj"
+              },
+              "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Infrastructure\\OnionExample.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Infrastructure\\OnionExample.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Application\\OnionExample.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Application\\OnionExample.Application.csproj",
+        "projectName": "OnionExample.Application",
+        "projectPath": "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Application\\OnionExample.Application.csproj",
+        "packagesPath": "C:\\Users\\Jheremy.Tancara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jheremy.Tancara\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Domain\\OnionExample.Domain.csproj": {
+                "projectPath": "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Domain\\OnionExample.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Domain\\OnionExample.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Domain\\OnionExample.Domain.csproj",
+        "projectName": "OnionExample.Domain",
+        "projectPath": "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Domain\\OnionExample.Domain.csproj",
+        "packagesPath": "C:\\Users\\Jheremy.Tancara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jheremy.Tancara\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Infrastructure\\OnionExample.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Infrastructure\\OnionExample.Infrastructure.csproj",
+        "projectName": "OnionExample.Infrastructure",
+        "projectPath": "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Infrastructure\\OnionExample.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Jheremy.Tancara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jheremy.Tancara\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Domain\\OnionExample.Domain.csproj": {
+                "projectPath": "C:\\Users\\Jheremy.Tancara\\Documents\\JalaWork\\Onion Architecture\\src\\OnionExample.Domain\\OnionExample.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

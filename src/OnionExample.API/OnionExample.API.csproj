@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OnionExample.Application\OnionExample.Application.csproj" />
+    <ProjectReference Include="..\OnionExample.Infrastructure\OnionExample.Infrastructure.csproj" />
+    <ProjectReference Include="..\OnionExample.Domain\OnionExample.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.4" />
+  </ItemGroup>
+</Project>
+
+

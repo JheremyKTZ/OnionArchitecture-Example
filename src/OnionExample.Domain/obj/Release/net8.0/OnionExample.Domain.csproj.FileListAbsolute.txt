@@ -1,0 +1,11 @@
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Domain\bin\Release\net8.0\OnionExample.Domain.deps.json
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Domain\bin\Release\net8.0\OnionExample.Domain.dll
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Domain\bin\Release\net8.0\OnionExample.Domain.pdb
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Domain\obj\Release\net8.0\OnionExample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Domain\obj\Release\net8.0\OnionExample.Domain.AssemblyInfoInputs.cache
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Domain\obj\Release\net8.0\OnionExample.Domain.AssemblyInfo.cs
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Domain\obj\Release\net8.0\OnionExample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Domain\obj\Release\net8.0\OnionExample.Domain.dll
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Domain\obj\Release\net8.0\refint\OnionExample.Domain.dll
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Domain\obj\Release\net8.0\OnionExample.Domain.pdb
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Domain\obj\Release\net8.0\ref\OnionExample.Domain.dll
