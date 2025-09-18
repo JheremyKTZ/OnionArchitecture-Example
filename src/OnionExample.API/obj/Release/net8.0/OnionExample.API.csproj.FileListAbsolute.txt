@@ -34,3 +34,4 @@ C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.
 C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.API\obj\Release\net8.0\OnionExample.API.pdb
 C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.API\obj\Release\net8.0\OnionExample.API.genruntimeconfig.cache
 C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.API\obj\Release\net8.0\ref\OnionExample.API.dll
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.API\obj\Release\net8.0\OnionExample.API.sourcelink.json

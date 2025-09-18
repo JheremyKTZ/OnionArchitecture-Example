@@ -10,5 +10,3 @@ public interface ICustomerRepository
     Task<bool> UpdateAsync(Customer customer, CancellationToken cancellationToken = default);
     Task<bool> DeleteAsync(Guid id, CancellationToken cancellationToken = default);
 }
-
-

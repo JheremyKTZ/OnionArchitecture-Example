@@ -64,8 +64,16 @@ Example POST (via Swagger or curl):```json
   "lastName": "Lovelace",
   "email": "ada@example.com"
 }
-```
 
+```
 Notes
+
 - In-memory repository (data is lost when the app restarts).
 - Order is included as a second basic model to illustrate the domain; this minimal version does not expose order endpoints.
+```
+
+
+## Swagger API Overview
+
+![Swagger API Overview](./docs/swagger_api_overview.png)
+
