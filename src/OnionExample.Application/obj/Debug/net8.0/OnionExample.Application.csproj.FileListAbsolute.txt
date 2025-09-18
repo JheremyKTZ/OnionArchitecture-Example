@@ -13,3 +13,4 @@ C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.
 C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Application\obj\Debug\net8.0\refint\OnionExample.Application.dll
 C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Application\obj\Debug\net8.0\OnionExample.Application.pdb
 C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Application\obj\Debug\net8.0\ref\OnionExample.Application.dll
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Application\obj\Debug\net8.0\OnionExample.Application.sourcelink.json

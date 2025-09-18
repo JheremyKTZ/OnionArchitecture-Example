@@ -9,3 +9,4 @@ C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.
 C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Domain\obj\Release\net8.0\refint\OnionExample.Domain.dll
 C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Domain\obj\Release\net8.0\OnionExample.Domain.pdb
 C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Domain\obj\Release\net8.0\ref\OnionExample.Domain.dll
+C:\Users\Jheremy.Tancara\Documents\JalaWork\Onion Architecture\src\OnionExample.Domain\obj\Release\net8.0\OnionExample.Domain.sourcelink.json
