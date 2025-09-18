@@ -43,5 +43,3 @@ public class CustomerController(CustomerService service) : ControllerBase
         return ok ? NoContent() : NotFound();
     }
 }
-
-

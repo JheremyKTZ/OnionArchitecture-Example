@@ -7,5 +7,3 @@ public class Order
     public DateTime CreatedAtUtc { get; set; } = DateTime.UtcNow;
     public decimal TotalAmount { get; set; }
 }
-
-

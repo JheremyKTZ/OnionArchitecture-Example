@@ -30,5 +30,3 @@ public class CustomerRepository : ICustomerRepository
     public Task<bool> DeleteAsync(Guid id, CancellationToken cancellationToken = default)
         => Task.FromResult(_store.TryRemove(id, out _));
 }
-
-

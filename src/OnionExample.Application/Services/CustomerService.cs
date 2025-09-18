@@ -22,5 +22,3 @@ public class CustomerService(ICustomerRepository repository)
     public Task<bool> DeleteAsync(Guid id, CancellationToken cancellationToken = default)
         => _repository.DeleteAsync(id, cancellationToken);
 }
-
-

@@ -1,12 +1,11 @@
-# OnionExample (.NET 8, Onion Architecture)
-
-Solución mínima con arquitectura Onion:
-- Domain: Entidades y contratos.
-- Application: Servicios/orquestación de casos de uso.
-- Infrastructure: Implementaciones (repositorios, aquí en memoria).
+OnionExample (.NET 8, Onion Architecture)
+Minimal solution with Onion Architecture:
+- Domain: Entities and contracts.
+- Application: Services / use case orchestration.
+- Infrastructure: Implementations (repositories, here in-memory).
 - API: ASP.NET Core Web API.
 
-## Estructura
+## Structure
 ```
 src/
   OnionExample.Domain/
@@ -27,13 +26,13 @@ src/
     Program.cs
 ```
 
-## Requisitos
+## Requirements
 - .NET SDK 8.0
 
-## Restaurar, compilar y ejecutar
+## Restore, Build, and Run
 ```powershell
-# Windows PowerShell desde la raíz del repo
-# 1) (Opcional) Crear la solución y agregar proyectos si aún no existe el .sln
+# Windows PowerShell from the root of the repo
+# 1) (Optional) Create the solution and add projects if the .sln does not exist
 if (-not (Test-Path "OnionExample.sln")) {
   dotnet new sln -n OnionExample
   dotnet sln add src/OnionExample.Domain/OnionExample.Domain.csproj
@@ -42,25 +41,24 @@ if (-not (Test-Path "OnionExample.sln")) {
   dotnet sln add src/OnionExample.API/OnionExample.API.csproj
 }
 
-# 2) Restaurar y compilar
+# 2) Restore and build
 dotnet restore
 dotnet build -c Release
 
-# 3) Ejecutar API (Swagger habilitado en Development)
+# 3) Run the API (Swagger enabled in Development)
 dotnet run --project src/OnionExample.API/OnionExample.API.csproj
 ```
 
-Swagger en desarrollo: `https://localhost:5001/swagger` (el puerto puede variar según Kestrel/HTTPS dev cert).
+Swagger in development: https://localhost:5001/swagger (port may vary depending on Kestrel / HTTPS dev cert).
 
-## Endpoints básicos
+## Basic Endpoints
 - GET `api/customer`
 - GET `api/customer/{id}`
 - POST `api/customer`
 - PUT `api/customer/{id}`
 - DELETE `api/customer/{id}`
 
-Ejemplo POST (Swagger o curl):
-```json
+Example POST (via Swagger or curl):```json
 {
   "firstName": "Ada",
   "lastName": "Lovelace",
@@ -68,6 +66,6 @@ Ejemplo POST (Swagger o curl):
 }
 ```
 
-## Notas
-- Repositorio en memoria (los datos se pierden al reiniciar la app).
-- `Order` es el segundo modelo básico incluido para ilustrar el dominio; esta versión mínima no expone endpoints de órdenes.
+Notes
+- In-memory repository (data is lost when the app restarts).
+- Order is included as a second basic model to illustrate the domain; this minimal version does not expose order endpoints.
