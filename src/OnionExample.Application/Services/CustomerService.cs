@@ -3,7 +3,7 @@ using OnionExample.Domain.Interfaces;
 
 namespace OnionExample.Application.Services;
 
-public class CustomerService(ICustomerRepository repository)
+public class CustomerService(ICustomerRepository repository) : ICustomerService
 {
     private readonly ICustomerRepository _repository = repository;
 

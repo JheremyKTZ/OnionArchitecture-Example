@@ -6,9 +6,9 @@ namespace OnionExample.API.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-public class CustomerController(CustomerService service) : ControllerBase
+public class CustomerController(ICustomerService service) : ControllerBase
 {
-    private readonly CustomerService _service = service;
+    private readonly ICustomerService _service = service;
 
     [HttpGet]
     public async Task<ActionResult<IEnumerable<Customer>>> GetAll(CancellationToken cancellationToken)
