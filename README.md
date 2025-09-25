@@ -79,9 +79,9 @@ Notes
 
 
 
-## Hands-on Lab: Explore Onion Architecture
+## Hands-on Lab: Onion Architecture
 
-**No coding required!** Just run commands and see the architecture in action.
+**No code!** Just run commands and see the architecture in action.
 
 ### 1) Start the API
 ```powershell
