@@ -150,8 +150,8 @@ HTTP Request → CustomerController → ICustomerService → CustomerService →
 - **List all:** GET `/api/customer`
 
 ### 7) What You Learned
-✅ **Separation of Concerns:** Each layer has one responsibility  
-✅ **Dependency Inversion:** High-level modules don't depend on low-level modules  
-✅ **Interface Segregation:** Small, focused interfaces  
-✅ **Testability:** Easy to mock interfaces for testing  
-✅ **Flexibility:** Can swap implementations without changing other layers
+- **Separation of Concerns:** Each layer has one responsibility  
+- **Dependency Inversion:** High-level modules don't depend on low-level modules  
+- **Interface Segregation:** Small, focused interfaces  
+- **Testability:** Easy to mock interfaces for testing  
+- **Flexibility:** Can swap implementations without changing other layers
